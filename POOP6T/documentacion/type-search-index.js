@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"unam.fi.poo.g8","l":"MiClase"}];updateSearchResults();
